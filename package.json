@@ -2,7 +2,7 @@
   "name": "profile_webside",
   "version": "1.0.0",
   "description": "Profile website",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "sass": "node-sass -w scss/ -o css/ --recursive"
   },
